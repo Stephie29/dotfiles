@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jos.stephanie@gmail.com
+	name = stephanie joseph
